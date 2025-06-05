@@ -1,0 +1,238 @@
+.home-categories-container {
+  width: 100vw;
+}
+.home-catetitle {
+  text-align: center;
+  font: normal normal medium 40px/60px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  font-weight: 500;
+  font-family: Poppins;
+  font-size: 2.8vw;
+}
+.homecate-menu {
+  display: flex;
+  width: 100vw;
+  padding: 3vw 6vw;
+  justify-content: space-between;
+  margin-top: 1vw;
+}
+.hc-arrow img {
+  width: 1.82vw;
+}
+.allcatebox {
+  width: 9vw;
+  outline: none;
+  border: none;
+  height: 2.5vw;
+  font-weight: 500;
+  font-family: Poppins;
+  font-size: 1vw;
+  background-color: #064c87;
+  border-radius: 0.2vw;
+  color: white;
+}
+.allcatemenuname {
+  font-weight: 500;
+  font-family: Poppins;
+  font-size: 1vw;
+  line-height: 2.4vw;
+  border-radius: 0.2vw;
+  cursor: pointer;
+  border: none;
+  background-color: white;
+}
+.allcatemenuname:hover {
+  color: #064c87;
+}
+.home-catecarousel {
+  width: 100vw;
+  padding: 1vw 6vw;
+  display: flex;
+  justify-content: space-between;
+}
+.carouselbox {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border-radius: 4px;
+  width: 15vw;
+  height: 16vw;
+  margin: auto;
+  margin-bottom: 2vw;
+  cursor: pointer;
+}
+.carouselboxTwo {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border-radius: 4px;
+  width: 20vw;
+  height: 16vw;
+  margin: auto;
+  margin-bottom: 2vw;
+  cursor: pointer;
+}
+.hc-cboximg {
+  width: 100%;
+  height: 9vw;
+}
+.hc-cboximg img {
+  width: 100%;
+  height: 9vw;
+}
+
+.hc-cboxname {
+  text-align: left;
+  font: normal normal medium 16px/25px Poppins;
+  letter-spacing: 0px;
+  color: #064c87;
+  opacity: 1;
+  margin: 1vw;
+  font-family: Poppins;
+  font-size: 1vw;
+  border-radius: 0.2vw;
+  margin-bottom: 0.1vw;
+}
+.hc-cboxdesc {
+  text-align: left;
+  font: normal normal medium 16px/25px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  margin-left: 1vw;
+  font-family: Poppins;
+  font-size: 0.71vw;
+  border-radius: 0.2vw;
+  margin-top: 0.3vw;
+  width: 10vw;
+  height: 1.7vw;
+}
+.hc-arrow {
+  float: right;
+  margin-right: 0.5vw;
+}
+
+@media only screen and (max-device-width: 700px) {
+  .home-categories-container {
+    width: 100vw;
+  }
+  .home-catetitle {
+    text-align: center;
+
+    font: normal normal medium 40px/60px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    font-weight: 500;
+    font-family: Poppins;
+    font-size: 8vw;
+    line-height: 11vw;
+  }
+  .homecate-menu {
+    display: flex;
+    width: 100vw;
+    padding: 3vw 2vw;
+    justify-content: space-between;
+    margin-top: 1vw;
+    flex-wrap: wrap;
+  }
+  .allcatebox {
+    width: fit-content;
+    outline: none;
+    border: none;
+    height: 8vw;
+    font-weight: 500;
+    padding: 1vw 2vw;
+    font-family: Poppins;
+    font-size: 3vw;
+    background-color: #064c87;
+    border-radius: 0.2vw;
+    border-radius: 1vw;
+    color: white;
+    margin-bottom: 1vw;
+  }
+  .allcatemenuname {
+    font-weight: 500;
+    font-family: Poppins;
+    font-size: 3vw;
+    line-height: 7.5vw;
+    border-radius: 0.2vw;
+    height: 7vw;
+    cursor: pointer;
+  }
+  .allcatemenuname:hover {
+    color: #064c87;
+  }
+  .home-catecarousel {
+    width: 100vw;
+    padding: 1vw 2vw;
+    display: flex;
+    justify-content: space-between;
+  }
+  .carouselbox {
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 4px;
+    width: 45vw;
+    height: 50vw;
+    margin: auto;
+    margin-bottom: 2vw;
+    cursor: pointer;
+  }
+  .hc-cboximg {
+    width: 100%;
+    height: 30vw;
+  }
+  .hc-cboximg img {
+    width: 100%;
+    height: 30vw;
+  }
+
+  .hc-cboxname {
+    text-align: left;
+    font: normal normal medium 16px/25px Poppins;
+    letter-spacing: 0px;
+    color: #064c87;
+    opacity: 1;
+    margin: 2vw;
+    margin-left: 1vw;
+    font-family: Poppins;
+    font-size: 3.5vw;
+
+    border-radius: 0.2vw;
+    margin-bottom: 1vw;
+  }
+  .hc-cboxdesc {
+    text-align: left;
+    font: normal normal medium 16px/25px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    margin-left: 1vw;
+    font-family: Poppins;
+    font-size: 2.4vw;
+    border-radius: 0.2vw;
+    margin-top: 0.3vw;
+    width: 100%;
+    height: 1.7vw;
+  }
+  .hc-arrow {
+    float: right;
+    margin-right: 0.5vw;
+  }
+  .hc-arrow img {
+    width: 5vw;
+    margin-top: 3vw;
+  }
+  .carouselboxTwo {
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 4px;
+    width: 90vw;
+    height: 85vw;
+    margin: auto;
+    margin-bottom: 2vw;
+    cursor: pointer;
+    box-shadow: 1px 2px 9px #000000;
+  }
+}

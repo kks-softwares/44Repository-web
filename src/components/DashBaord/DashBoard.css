@@ -1,0 +1,183 @@
+.dashboardnav-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 1vw 4vw;
+  align-items: center;
+}
+.workdifrrencenav {
+  display: flex;
+  font: var(--unnamed-font-style-normal) normal medium 20px/30px
+    var(--unnamed-font-family-poppins);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal medium 20px/30px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  font-size: 1.45vw;
+  font-family: Poppins;
+  font-weight: 400;
+  width: 35vw;
+}
+
+.worknavtogglemenu {
+  width: 12vw;
+}
+
+.sidebardashbord-container {
+  width: 16vw;
+  background-color: white;
+  padding: 0vw;
+  padding-top: 1vw;
+  box-shadow: 2px 0 3px -2px rgb(192 192 192);
+}
+
+.firstsidebarmenu {
+  display: flex;
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal medium 14px/21px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  font-size: 1vw;
+  align-items: center;
+  font-weight: 500;
+  font-family: Poppins;
+  height: 3.5vw;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.firstsidebarmenu:hover {
+  background-color: #064c87;
+  color: white;
+}
+.firstsidebarmenu:hover img {
+  filter: invert();
+}
+.firstsidebarmenu1 {
+  display: flex;
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal medium 14px/21px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  font-size: 1vw;
+  align-items: center;
+  font-weight: 500;
+  font-family: Poppins;
+  height: 3vw;
+  color: white;
+  cursor: pointer;
+  background-color: #064c87;
+}
+
+.firstsidebarmenu img {
+  width: 2vw;
+  object-fit: 1vw;
+  margin: 0 1vw;
+}
+.firstsidebarmenu1 img {
+  width: 2vw;
+  object-fit: 1vw;
+  margin: 0 1vw;
+  filter: invert();
+}
+
+a {
+  color: black !important;
+}
+
+@media only screen and (max-device-width: 700px){
+    .dashboardnav-container {
+        display: flex;
+        justify-content: space-between;
+        padding: 1vw 4vw;
+        align-items: center;
+      }
+      .workdifrrencenav {
+        display: flex;
+        font: var(--unnamed-font-style-normal) normal medium 20px/30px
+          var(--unnamed-font-family-poppins);
+        letter-spacing: var(--unnamed-character-spacing-0);
+        text-align: left;
+        font: normal normal medium 20px/30px Poppins;
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+        font-size: 1.45vw;
+        font-family: Poppins;
+        font-weight: 400;
+        width: 35vw;
+      }
+      
+      .worknavtogglemenu {
+        width: 12vw;
+      }
+      
+      .sidebardashbord-container {
+        width: 16vw;
+        background-color: white;
+        padding: 0vw;
+        padding-top: 0vw;
+        box-shadow: 2px 0 3px -2px rgb(192 192 192);
+      }
+      
+      .firstsidebarmenu {
+        display: flex;
+        letter-spacing: var(--unnamed-character-spacing-0);
+        text-align: left;
+        font: normal normal medium 14px/21px Poppins;
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+        font-size: 3.5vw;
+        align-items: center;
+        font-weight: 500;
+        font-family: Poppins;
+        height: 10vw;
+        cursor: pointer;
+        transition: all 0.3s;
+      }
+      .firstsidebarmenu:hover {
+        background-color: #064c87;
+        color: white;
+      }
+      .firstsidebarmenu:hover img {
+        filter: invert();
+      }
+      .firstsidebarmenu1 {
+        display: flex;
+        letter-spacing: var(--unnamed-character-spacing-0);
+        text-align: left;
+        font: normal normal medium 14px/21px Poppins;
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+        font-size: 3.5vw;
+        align-items: center;
+        font-weight: 500;
+        font-family: Poppins;
+        height: 10vw;
+        color: white;
+        cursor: pointer;
+        background-color: #064c87;
+      }
+      
+      .firstsidebarmenu img {
+        width: 6.5vw;
+        object-fit: 1vw;
+        margin: 0 2vw;
+      }
+      .firstsidebarmenu1 img {
+        width: 6.5vw;
+        object-fit: 1vw;
+        margin: 0 2vw;
+        filter: invert();
+      }
+      
+      a {
+        color: black !important;
+      }
+}

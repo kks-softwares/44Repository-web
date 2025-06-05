@@ -1,0 +1,154 @@
+.Termandcondition h2 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500 !important;
+  font-size: 2.5vw;
+  line-height: 1.6vw;
+  margin-top: 1.62vw;
+  color: #000000;
+  margin-bottom: 2vw;
+}
+
+.Termandcondition h3 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500 !important;
+  font-size: 1.7vw;
+  line-height: 1.6vw;
+  margin-top: 1.62vw;
+  padding-top: 1.62vw;
+  color: #000000;
+  margin-bottom: 0.5vw;
+  border-top: 1px solid #807f7f56;
+}
+.Termandcondition h2>strong {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 2.5vw;
+  line-height: 1.6vw;
+  margin-top: 1.62vw;
+  color: #000000;
+  margin-bottom: 2vw;
+}
+
+.Termandcondition h3>strong {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500 !important;
+  font-size: 1.7vw;
+  line-height: 1.6vw;
+  margin-top: 1.62vw;
+  padding-top: 1.62vw;
+  color: #000000;
+  margin-bottom: 0.5vw;
+
+}
+
+.Termandcondition p {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.05vw;
+  margin-top: 0.71vw !important;
+  line-height: 1.5vw;
+  margin-right: 3vw !important;
+  margin-left: 1vw !important;
+
+  color: #565656;
+}
+
+.Termandcondition ul {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.13vw;
+  margin-top: 0.71vw !important;
+  line-height: 1.5vw;
+  margin-right: 3vw !important;
+  margin-left: 1vw !important;
+
+  color: #565656;
+}
+.Termandcondition li {
+  list-style-type: disc;
+}
+@media only screen and (max-device-width: 700px) {
+  .Termandcondition h2 {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 5.6vw;
+    line-height: 3.6vw;
+    margin-top: 1.62vw;
+    color: #000000;
+    margin-bottom: 2vw;
+  }
+
+  .Termandcondition h3 {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 3.8vw;
+    line-height: 3.9vw;
+    margin-top: 2.62vw;
+    padding-top: 2.62vw;
+    color: #000000;
+    margin-bottom: 0.5vw;
+    border-top: 1px solid #807f7f56;
+  }
+
+  .Termandcondition p {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2.83vw;
+    margin-top: 1.71vw !important;
+    line-height: 3vw;
+    margin-right: 3vw !important;
+    margin-left: 1vw !important;
+    color: #565656;
+  }
+
+  .Termandcondition ul {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 3.13vw;
+    margin-top: 0.71vw !important;
+    line-height: 3.5vw;
+    margin-right: 3vw !important;
+    margin-left: 1vw !important;
+
+    color: #565656;
+  }
+  .Termandcondition li {
+    list-style-type: disc;
+  }
+  .mobtandcc {
+    padding: 2vw 2vw !important;
+  }
+  .Termandcondition h2>strong {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600 !important;
+    font-size: 6vw;
+    line-height: 8vw;
+    margin-top: 1.62vw;
+    color: #000000;
+    margin-bottom: 2vw;
+  }
+  
+  .Termandcondition h3>strong {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500 !important;
+    font-size: 4vw;
+    line-height: 5vw;
+    margin-top: 1.62vw;
+    padding-top: 1.62vw;
+    color: #000000;
+    margin-bottom: 0.5vw;
+  
+  }
+}

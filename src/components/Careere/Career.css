@@ -1,0 +1,143 @@
+.CareerContainer {
+  width: 100%;
+  padding: 1vw 4vw;
+}
+.CareerSearchcontajiner {
+  width: 100%;
+  padding: 1vw 5vw;
+  display: flex;
+  justify-content: space-between;
+}
+.CareerSearchcontajiner1 {
+  width: 100%;
+  padding: 1vw 5vw;
+}
+.SearchBoxCareer {
+  display: flex;
+  padding: 0.5vw;
+  height: 3vw;
+  align-items: center;
+  width: 25vw;
+  border-radius: 0.2vw;
+  background-color: #e4e4e485;
+}
+.SearchBoxCareer input {
+  width: 100%;
+  background: none;
+  border: none;
+  outline: none;
+  font-size: 1.2vw;
+  font-family: Poppins;
+}
+.SearchBoxCareer1 button {
+  width: 8vw;
+  border: none;
+  background: #064c87 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  height: 3vw;
+  font-size: 1.2vw;
+  font-family: Poppins;
+  color: white;
+  font-weight: 500;
+}
+.CareerSearchcontajiner1 {
+}
+.boxofCareersearchditems {
+    margin: 1vw 0;
+  display: flex;
+  width: 90vw;
+  height: 4vw;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1.5vw 0;
+  padding: 1vw 2vw;
+  background: #e4e4e438 0% 0% no-repeat padding-box;
+}
+.tiitleofcareer {
+  font-size: 1.2vw;
+  font-family: Poppins;
+  font-weight: 500;
+  width: 25%;
+}
+.tagofcareer {
+  background: #064c87 0% 0% no-repeat padding-box;
+  border-radius: 2px;
+  font-size: 1vw;
+  font-family: Poppins;
+  font-weight: 400;
+  color: white;
+  width: 15%;
+  height: 2vw;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+}
+
+.detailsofcareer{
+    display: flex;
+    width: 10%;
+    align-items: center;
+    font-size: 1vw;
+    font-family: Poppins;
+    font-weight: 400;
+
+    color: rgb(48, 47, 47);
+
+
+}
+
+.applubuttoncareer{
+     width: 10%;
+     border: 1px solid #064C87;
+border-radius: 2px;
+height: 2.5vw;
+font-size: 1.2vw;
+font-family: Poppins;
+font-weight: 500;
+background:none;
+color: #064C87;
+}
+
+.CareerDetailFormConrainer{
+   width: 100vw;
+   padding: 2vw 4vw;
+   display: flex;
+   justify-content: space-between;
+
+}
+.titleCareerDetails{
+    font-size: 1.6vw;
+    font-family: Poppins;
+    font-weight: 500;
+    margin-bottom: 2vw;
+    color: #064c87;
+}
+.subtutilecareer{
+    font-size: 1.4vw;
+    font-family: Poppins;
+    font-weight: 500;
+    margin-bottom: 1vw;
+    
+}
+.flexoftitlrecareer{
+    display: flex;
+     width: 40vw;
+}
+.paraofcareer{
+    margin: 1vw 0;
+    font-size: 1vw;
+    font-family: Poppins;
+    font-family: 400;
+    color: rgba(59, 59, 59, 0.664);
+}
+.careerForm{
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #7070701A;
+width: 100%;
+padding: 3vw 3vw;
+height: fit-content;
+}

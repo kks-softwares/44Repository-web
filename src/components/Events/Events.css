@@ -1,0 +1,154 @@
+.eventbanercontainer {
+  width: 100vw;
+  height: 25vw;
+  display: flex;
+  padding: 3vw 4vw;
+  background: #064d8710 0% 0% no-repeat padding-box;
+}
+.eventBannerTitle {
+  font-size: 2vw;
+  font-family: Poppins;
+  line-height: 3vw;
+  margin-bottom: 1vw;
+  font-weight: 500;
+  color: #064c87;
+  margin-top: 2vw;
+}
+.eventBannerTitle2 {
+  font-size: 1.05vw;
+  font-family: Poppins;
+  line-height: 1.2vw;
+  margin-bottom: 1vw;
+  font-weight: 400;
+  padding-right: 4vw;
+}
+.eventbbutton {
+  margin: 2vw;
+  background: #064c87 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border-radius: 4px;
+  opacity: 1;
+  font: var(--unnamed-font-style-normal) normal medium 16px/25px
+    var(--unnamed-font-family-poppins);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-ffffff);
+  text-align: left;
+  font: normal normal medium 16px/25px Poppins;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  font-size: 1.1vw;
+  font-family: Poppins;
+  line-height: 1.2vw;
+  font-weight: 500;
+  padding: 0.9vw 1vw;
+  border: none;
+}
+.eventbanercontainer img {
+  width: 46vw;
+  height: 18vw;
+  object-fit: cover;
+  border-radius: 0.2vw;
+}
+.EventCardContainer {
+  width: 100vw;
+  padding: 2vw 4vw;
+}
+.titleviewdivevent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.titletagviewtitleevnt {
+  font-size: 2vw;
+  font-family: Poppins;
+  line-height: 1.2vw;
+  font-weight: 500;
+}
+.viewallbutton {
+  border: 1px solid #064c87;
+  border-radius: 6px;
+  opacity: 1;
+
+  font: normal normal normal 16px/25px Poppins;
+  letter-spacing: 0px;
+  color: #064c87;
+  opacity: 1;
+  font-size: 1.1vw;
+  font-family: Poppins;
+  line-height: 1.2vw;
+  font-weight: 400;
+  padding: 0.7vw 1vw;
+}
+.flecofcardsevents {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.eventcardbox {
+  height: 21vw;
+  width: 27vw;
+  margin: 2vw 0vw;
+  padding: 1vw;
+  background: #e4e4e438 0% 0% no-repeat padding-box;
+}
+.blueevnetcardtitle {
+  text-align: left;
+  font: normal normal medium 12px/18px Poppins;
+  letter-spacing: 0px;
+  color: #064c87;
+  opacity: 1;
+  font-size: 0.9vw;
+  font-family: Poppins;
+  line-height: 1.2vw;
+  font-weight: 500;
+}
+.blackevnetcardtitle {
+  text-align: left;
+  font: normal normal medium 12px/18px Poppins;
+  letter-spacing: 0px;
+  opacity: 1;
+  font-size: 1.2vw;
+  font-family: Poppins;
+  line-height: 2.5vw;
+  font-weight: 400;
+}
+.blackevnetcardpara {
+  font-size: 0.8vw;
+  font-family: Poppins;
+  line-height: 1.1vw;
+  font-weight: 300;
+  color: #707070;
+  margin: 0.51vw 0vw;
+}
+
+.blueevnetcardtitle1 {
+  text-align: left;
+  font: normal normal medium 12px/18px Poppins;
+  letter-spacing: 0px;
+  color: #064c87;
+  opacity: 1;
+  font-size: 1vw;
+  font-family: Poppins;
+  line-height: 1.2vw;
+  font-weight: 500;
+  margin-top: 1vw;
+}
+.blackevnetcardtitle1 {
+  text-align: left;
+  font: normal normal medium 12px/18px Poppins;
+  letter-spacing: 0px;
+  opacity: 1;
+  font-size: 0.91vw;
+  font-family: Poppins;
+  line-height: 1.5vw;
+  font-weight: 500;
+}
+.blackevnetcardpara1{
+  font-size: 0.8vw;
+  font-family: Poppins;
+  line-height: 1.1vw;
+  font-weight: 300;
+  color: #707070;
+
+}

@@ -1,0 +1,66 @@
+.hometrustcontainer {
+  width: 100vw;
+  padding: 1vw 6vw;
+}
+.homesubtryst{
+    text-align: center;
+    font: normal normal normal 16px/25px Poppins;
+    letter-spacing: 0px;
+    color: #0A0A0A;
+    opacity: 1; 
+    font-family: Poppins;
+    font-size: 1vw;
+    font-weight: 400;
+}
+.hometrustbox{
+   
+    max-width: 88vw;
+
+  
+}
+
+.hometrusticon{
+  padding: auto;
+}
+
+.hometrusticon img{
+    /* height: 3.5vw; */
+    width: fit-content;
+    object-fit: contain;
+    margin: auto;
+    margin-top: 3vw;
+    margin-bottom: 1vw;
+    
+}
+
+
+@media only screen and (max-device-width: 700px){
+    .hometrustcontainer {
+        width: 100vw;
+        padding: 1vw 2vw;
+      }
+      .homesubtryst{
+          text-align: center;
+          font: normal normal normal 16px/25px Poppins;
+          letter-spacing: 0px;
+          color: #0A0A0A;
+          opacity: 1; 
+          font-family: Poppins;
+          font-size: 3.3vw;
+          font-weight: 400;
+      }
+      .hometrustbox{
+ 
+          max-width: 94vw;
+     
+      }
+      
+      .hometrusticon img{
+          
+          width: fit-content;
+          object-fit: contain;
+          margin: auto;
+          margin-top: 5vw;
+          margin-bottom: 1vw;
+      }
+}

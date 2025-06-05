@@ -1,0 +1,186 @@
+.container-ssd-type {
+  display: flex;
+  justify-content: space-between;
+  margin: 2vw 13vw;
+}
+.ssdtypenames {
+  width: fit-content;
+}
+.ssdtypetitle {
+  text-align: left;
+  font: normal normal medium 20px/30px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 1.2vw;
+  margin-bottom: 2vw;
+}
+.ssdtypename div {
+  text-align: left;
+  font: normal normal medium 20px/30px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 1vw;
+  margin-bottom: 0.51vw;
+  max-width: 10vw;
+}
+.ssdbottombar {
+  margin: 2vw 4vw;
+  display: flex;
+  justify-content: space-between;
+}
+.ssd-b-secondicon {
+  width: 60vw;
+}
+.ssd-firstonedivicons {
+  width: 10vw;
+}
+.ssd-firstoneicons {
+  width: 3vw;
+  object-fit: contain;
+}
+.ssd-b-secondicondata {
+}
+
+.ssd-b-secondicondatatitle {
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 2.5vw;
+  position: relative;
+  bottom: 2vw;
+}
+.ssd-b-second-data-smalldata {
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 1.2vw;
+  position: relative;
+  bottom: 2vw;
+  color: #707070;
+  line-height: 1.5vw;
+  margin-top: 1vw;
+  width: 45vw;
+}
+.ssd-b-image-bottom {
+  width: 92vw;
+  height: 45vw;
+  margin: auto;
+  border-radius: 4px;
+}
+.ssd-b-image-bottom img {
+  width: 92vw;
+  height: 45vw;
+  object-fit: cover;
+  border-radius: 4px;
+}
+.ssdrenvent-container {
+  width: 60vw;
+  margin: 4vw auto;
+}
+.ssdrenvent-container-titile {
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 2.2vw;
+  margin: 1vw 0vw;
+}
+.ssdrenvent-container-para {
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 1.25vw;
+  margin: 1vw 0vw;
+  margin-right: 7vw;
+  color: #707070;
+}
+.ssdrenvent-stepscontainer {
+  margin-left: 5vw;
+  margin-top: 3vw;
+}
+.ssdrenvent-stepsbox {
+  display: flex;
+  align-items: center;
+  margin-bottom: 3vw;
+}
+.ssdrenvent-stepsboxx {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1vw;
+}
+.ssdredventstepimg {
+  transform: matrix(0.71, 0.71, -0.71, 0.71, 0, 0);
+  /* UI Properties */
+  background: #e4ecf2 0% 0% no-repeat padding-box;
+  border-radius: 4px;
+  opacity: 1;
+  width: 3vw;
+  height: 3vw;
+}
+.ssdredventstepimgx {
+  opacity: 1;
+  width: 3vw;
+  height: 3vw;
+}
+.ssdredventstepimgx img {
+  opacity: 1;
+  width: 1.82vw;
+  height: 1.82vw;
+  object-fit: contain;
+  position: relative;
+  top: 0.51vw;
+}
+.ssdredventstepdata {
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 1.3vw;
+  margin: 0.5vw 0vw;
+  z-index: 2;
+  position: relative;
+  right: 1.52vw;
+  width: fit-content;
+}
+.ssdredventstepdatax {
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 1.3vw;
+  margin: 0.5vw 0vw;
+  z-index: 2;
+  margin-left: 2vw;
+
+  width: fit-content;
+}
+
+.ssdlastquate {
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 2.2vw;
+  width: 50vw;
+  margin: auto;
+  color: white;
+  padding-top: 8vw;
+}
+.ssdlastquate span {
+  font-size: 6vw;
+  line-height: 1vw;
+}
+
+.ssdlastname {
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 2.4vw;
+  width: 60vw;
+  margin: auto;
+  color: white;
+  margin-top: 2vw;
+}
+.ssdlastnamesub {
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 1.6vw;
+  width: 60vw;
+  margin: auto;
+  color: #fffcfc;
+  opacity: 0.4;
+}

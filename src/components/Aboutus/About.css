@@ -1,0 +1,642 @@
+.Aboutabout-container {
+  width: 100vw;
+  height: fit-content;
+  padding: 2vw 4vw;
+}
+.abouttitileheading {
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: center;
+  font: normal normal medium 40px/60px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 2.5vw;
+  margin-bottom: 1vw;
+}
+.abouttitileheadingsub {
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: center;
+  font: normal normal medium 40px/60px Poppins;
+  letter-spacing: 0px;
+  color: #616060;
+  opacity: 1;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 1.2vw;
+  margin-bottom: 1vw;
+}
+.bluetitilesubabout {
+  font: var(--unnamed-font-style-normal) normal medium 29px/43px
+    var(--unnamed-font-family-poppins);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal medium 29px/43px Poppins;
+  letter-spacing: 0px;
+  color: #286497;
+  opacity: 1;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 1.5vw;
+  width: 48%;
+}
+.aboutaboutimg {
+  text-align: center;
+  width: 45%;
+}
+.aboutaboutimg img {
+  text-align: center;
+  width: 100%;
+  object-fit: cover;
+  height: 25vw;
+}
+
+.blackaboutaboutdata {
+  font: var(--unnamed-font-style-normal) normal medium 29px/43px
+    var(--unnamed-font-family-poppins);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal medium 29px/43px Poppins;
+  letter-spacing: 0px;
+  color: #286497;
+  opacity: 1;
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 1.1vw;
+  width: 90%;
+  color: #707070;
+  margin: 1.2vw 0.5vw;
+}
+.blackaboutaboutdatax {
+  font: var(--unnamed-font-style-normal) normal medium 29px/43px
+    var(--unnamed-font-family-poppins);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal medium 29px/43px Poppins;
+  letter-spacing: 0px;
+  color: #286497;
+  opacity: 1;
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 1.25vw;
+  width: 90%;
+  color: #707070;
+  margin: 1.2vw 0.5vw;
+}
+.blackaboutaboutdata {
+  font: var(--unnamed-font-style-normal) normal medium 29px/43px
+    var(--unnamed-font-family-poppins);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal medium 29px/43px Poppins;
+  letter-spacing: 0px;
+  color: #286497;
+  opacity: 1;
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 1.1vw;
+  width: 90%;
+  color: #707070;
+  margin: 1.2vw 0.5vw;
+}
+.ourmissionmaintitile {
+  width: 40vw;
+  font: var(--unnamed-font-style-normal) normal medium 29px/43px
+    var(--unnamed-font-family-poppins);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal medium 29px/43px Poppins;
+  letter-spacing: 0px;
+  color: #286497;
+  opacity: 1;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 3.5vw;
+  width: 48%;
+  line-height: 4.5vw;
+  margin: 1vw 0;
+}
+.aboutmissionfleximages {
+  display: flex;
+  width: 92vw;
+  height: 36vw;
+  margin: 3vw 0;
+  align-items: center;
+  justify-content: space-between;
+}
+.img1aboutmision {
+  width: 18vw;
+  height: 18vw;
+}
+.img1aboutmision img {
+  width: 18vw;
+  height: 18vw;
+  object-fit: cover;
+  border-radius: 0.5vw;
+}
+.img2aboutmision {
+  width: 18vw;
+  height: 36vw;
+  margin-top: 1vw;
+}
+.img21aboutmision {
+  width: 18vw;
+  height: 18vw;
+  margin-bottom: 1vw;
+}
+.img21aboutmision img {
+  width: 18vw;
+  height: 18vw;
+  object-fit: cover;
+  border-radius: 0.5vw;
+}
+
+.img3aboutmision {
+  width: 32vw;
+  height: 18vw;
+}
+.img3aboutmision img {
+  width: 32vw;
+  height: 18vw;
+  object-fit: cover;
+  border-radius: 0.5vw;
+}
+
+.aboutsuccesnoboxflex {
+  display: flex;
+  padding: 1vw 3vw;
+  align-items: center;
+  justify-content: space-between;
+}
+.aboutsinglenumber {
+  width: fit-content;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.abouttrustimgbox {
+  width: 4.5vw;
+  height: 4.5vw;
+}
+.abouttrustimgbox img {
+  width: 4vw;
+  height: 4vw;
+  object-fit: contain;
+}
+.abouttrustvaluebox {
+  font: var(--unnamed-font-style-normal) normal medium 40px/60px
+    var(--unnamed-font-family-poppins);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  font: normal normal medium 40px/60px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 3.5vw;
+}
+.abouttrustvaluetypebox {
+  font: var(--unnamed-font-style-normal) normal medium 40px/60px
+    var(--unnamed-font-family-poppins);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  font: normal normal medium 40px/60px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 1.7vw;
+}
+
+.readyabout {
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 1.5vw;
+  text-align: center;
+}
+.readyabout button {
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 1.5vw;
+  background: #064c87 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border-radius: 4px;
+  opacity: 1;
+  font-size: 1.7vw;
+  color: white;
+  border: none;
+  outline: none;
+  height: 3vw;
+  padding: 0 1vw;
+  margin-left: 2vw;
+}
+
+.abhoutopeningbox {
+  background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border-radius: 6px;
+  opacity: 1;
+  width: 75vw;
+  margin: 1vw auto;
+  height: 3.5vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1.5vw;
+}
+.dtaofopeningabout {
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-normal) 18px/27px
+    var(--unnamed-font-family-poppins);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal normal 18px/27px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  font-weight: 300;
+  font-size: 1.2vw;
+  font-family: Poppins;
+  display: flex;
+  align-items: center;
+  width: fit-content;
+}
+
+.dtaofopeningabout img {
+  width: 1.62vw;
+  object-fit: contain;
+  margin: 0 0.5vw;
+}
+.beniofitsticks {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50vw;
+  margin: 1vw auto;
+  justify-content: space-between;
+}
+.benifitstickaname {
+  width: 25vw;
+  display: flex;
+  align-items: center;
+  height: 4vw;
+}
+
+.nameoftickbenifit {
+  font-weight: 400;
+  font-size: 1.2vw;
+  font-family: Poppins;
+}
+.imageoftickbenifut {
+  width: 5vw;
+}
+.imageoftickbenifut img {
+  width: 2.5vw;
+  object-fit: contain;
+}
+.homeblueboxtitle {
+  font-weight: 400;
+  font-size: 2.5vw;
+  font-family: Poppins;
+  color: white;
+  text-align: center;
+  margin: 1vw;
+  margin-top: 0vw;
+}
+.homeblueboxsubtitle {
+  font-weight: 400;
+  font-size: 1.5vw;
+  font-family: Poppins;
+  color: white;
+  width: 60vw;
+  margin: 2vw;
+  text-align: center;
+}
+
+@media only screen and (max-device-width: 700px) {
+  .Aboutabout-container {
+    width: 100vw;
+    height: fit-content;
+    padding: 3vw 4vw;
+  }
+  .abouttitileheading {
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: center;
+    font: normal normal medium 40px/60px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 6.5vw;
+    margin-bottom: 3vw;
+  }
+  .abouttitileheadingsub {
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: center;
+    font: normal normal medium 40px/60px Poppins;
+    letter-spacing: 0px;
+    color: #616060;
+    opacity: 1;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 3.3vw;
+    margin-bottom: 3vw;
+  }
+  .bluetitilesubabout {
+    font: var(--unnamed-font-style-normal) normal medium 29px/43px
+      var(--unnamed-font-family-poppins);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal medium 29px/43px Poppins;
+    letter-spacing: 0px;
+    color: #286497;
+    opacity: 1;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 4vw;
+    width: 100%;
+  }
+  .aboutaboutimg {
+    text-align: center;
+    width: 100%;
+    margin-top: 2vw;
+  }
+  .aboutaboutimg img {
+    text-align: center;
+    width: 100%;
+    object-fit: cover;
+    height: 55vw;
+  }
+
+  .blackaboutaboutdata {
+    font: var(--unnamed-font-style-normal) normal medium 29px/43px
+      var(--unnamed-font-family-poppins);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal medium 29px/43px Poppins;
+    letter-spacing: 0px;
+    color: #286497;
+    opacity: 1;
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 3.3vw;
+    width: 100%;
+    color: #707070;
+    margin: 1.2vw 0.5vw;
+  }
+  .blackaboutaboutdatax {
+    font: var(--unnamed-font-style-normal) normal medium 29px/43px
+      var(--unnamed-font-family-poppins);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal medium 29px/43px Poppins;
+    letter-spacing: 0px;
+    color: #286497;
+    opacity: 1;
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 3.3vw;
+    width: 100%;
+    color: #707070;
+    margin: 1.2vw 0.5vw;
+  }
+  .blackaboutaboutdata {
+    font: var(--unnamed-font-style-normal) normal medium 29px/43px
+      var(--unnamed-font-family-poppins);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal medium 29px/43px Poppins;
+    letter-spacing: 0px;
+    color: #286497;
+    opacity: 1;
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 3.2vw;
+    width: 100%;
+    color: #707070;
+    margin: 1.2vw 0.5vw;
+  }
+  .ourmissionmaintitile {
+    width: 40vw;
+    font: var(--unnamed-font-style-normal) normal medium 29px/43px
+      var(--unnamed-font-family-poppins);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal medium 29px/43px Poppins;
+    letter-spacing: 0px;
+    color: #286497;
+    opacity: 1;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 3.5vw;
+    width: 100%;
+    line-height: 4.5vw;
+    margin: 1vw 0;
+  }
+  .aboutmissionfleximages {
+    display: flex;
+    width: 100%;
+    height: 62vw;
+    margin: 3vw 0;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .img1aboutmision {
+    width: 29vw;
+    height: 29vw;
+  }
+  .img1aboutmision img {
+    width: 29vw;
+    height: 29vw;
+    object-fit: cover;
+    border-radius: 0.5vw;
+  }
+  .img2aboutmision {
+    width: 29vw;
+    height: 58vw;
+    margin-top: 1vw;
+  }
+  .img21aboutmision {
+    width: 29vw;
+    height: 29vw;
+    margin-bottom: 2vw;
+  }
+  .img21aboutmision img {
+    width: 29vw;
+    height: 29vw;
+    object-fit: cover;
+    border-radius: 0.5vw;
+  }
+
+  .img3aboutmision {
+    width: 32vw;
+    height: 18vw;
+  }
+  .img3aboutmision img {
+    width: 32vw;
+    height: 18vw;
+    object-fit: cover;
+    border-radius: 0.5vw;
+  }
+
+  .aboutsuccesnoboxflex {
+    display: flex;
+    padding: 1vw 3vw;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .aboutsinglenumber {
+    width: fit-content;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    margin-bottom: 4vw;
+  }
+
+  .abouttrustimgbox {
+    width: 15vw;
+    height: 15vw;
+  }
+  .abouttrustimgbox img {
+    width: 14vw;
+    height: 14vw;
+    object-fit: contain;
+  }
+  .abouttrustvaluebox {
+    font: var(--unnamed-font-style-normal) normal medium 40px/60px
+      var(--unnamed-font-family-poppins);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    font: normal normal medium 40px/60px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 3.5vw;
+  }
+  .abouttrustvaluetypebox {
+    font: var(--unnamed-font-style-normal) normal medium 40px/60px
+      var(--unnamed-font-family-poppins);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    font: normal normal medium 40px/60px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 4.5vw;
+  }
+
+  .readyabout {
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 5vw;
+    text-align: center;
+    margin-bottom: 10vw;
+  }
+  .readyabout button {
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 4vw;
+    background: #064c87 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 4px;
+    opacity: 1;
+    font-size: 4vw;
+    color: white;
+    border: none;
+    outline: none;
+    height: 9vw;
+    padding: 0 3vw;
+    margin-left: 2vw;
+  }
+
+  .abhoutopeningbox {
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 6px;
+    opacity: 1;
+    width: 75vw;
+    margin: 1vw auto;
+    height: 3.5vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1.5vw;
+  }
+  .dtaofopeningabout {
+    font: var(--unnamed-font-style-normal) normal
+      var(--unnamed-font-weight-normal) 18px/27px
+      var(--unnamed-font-family-poppins);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal normal 18px/27px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    font-weight: 300;
+    font-size: 1.2vw;
+    font-family: Poppins;
+    display: flex;
+    align-items: center;
+    width: fit-content;
+  }
+
+  .dtaofopeningabout img {
+    width: 1.62vw;
+    object-fit: contain;
+    margin: 0 0.5vw;
+  }
+  .beniofitsticks {
+    display: flex;
+    flex-wrap: wrap;
+    width: 50vw;
+    margin: 1vw auto;
+    justify-content: space-between;
+  }
+  .benifitstickaname {
+    width: 25vw;
+    display: flex;
+    align-items: center;
+    height: 4vw;
+  }
+
+  .nameoftickbenifit {
+    font-weight: 400;
+    font-size: 1.2vw;
+    font-family: Poppins;
+  }
+  .imageoftickbenifut {
+    width: 5vw;
+  }
+  .imageoftickbenifut img {
+    width: 2.5vw;
+    object-fit: contain;
+  }
+  .homeblueboxtitle {
+    font-weight: 400;
+    font-size: 7vw;
+    font-family: Poppins;
+    color: white;
+    text-align: center;
+    margin: 1vw;
+    margin-top: 0vw;
+  }
+  .homeblueboxsubtitle {
+    font-weight: 400;
+    font-size: 4vw;
+    font-family: Poppins;
+    color: white;
+    width: 90vw;
+    margin: 2vw;
+    text-align: center;
+  }
+}

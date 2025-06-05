@@ -1,0 +1,373 @@
+.Askboxes-container {
+  margin: 2vw 8vw;
+}
+.askboxes {
+  display: flex;
+  justify-content: space-between;
+}
+.askbox {
+  text-align: center;
+  width: 15.5vw;
+  height: 7.7vw;
+  background: #ffffff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.05);
+  border-radius: 10px 30px;
+}
+.ask-logo {
+  margin-top: 2vw;
+}
+.ask-type {
+  margin-top: 1vw;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 0.85vw;
+  line-height: 1vw;
+
+  color: #000000;
+}
+.genral-Question-container {
+  background: white;
+  padding: 2.5vw 18vw;
+  /* text-align: center; */
+}
+.gqheading {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.5vw;
+  line-height: 1.4vw;
+  text-align: center;
+  color: #000000;
+}
+.gqsubHeading {
+  text-align: center;
+  margin-top: 1.3vw;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.91vw;
+  line-height: 1.2vw;
+  /* or 171% */
+
+  text-align: center;
+
+  color: #6b6b6b;
+}
+
+.gq-data-box {
+  margin-top: 2vw;
+  width: 100%;
+}
+.gq-data-heading {
+  display: flex;
+  justify-content: space-between;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1vw;
+  line-height: 1.2vw;
+
+  color: #000000;
+}
+.gp-data-para {
+  margin-top: 1vw;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 0.91vw;
+  line-height: 1.4vw;
+  /* or 157% */
+
+  color: #333333;
+}
+
+.hr {
+  color: #c2bebe;
+  background-color: #6b6b6b;
+}
+@media only screen and (max-device-width: 700px) {
+  .Askboxes-container {
+    margin: 2vw 2vw;
+  }
+  .askboxes {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow: scroll hidden;
+    overflow-x: auto;
+    position: relative;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: 100%;
+    justify-content: space-between;
+  }
+  .askboxes::scrollbar {
+    display: none;
+  }
+  .askbox {
+    position: relative;
+    text-align: center;
+    min-width: 41.5vw;
+    min-height: 32.7vw;
+    background: #ffffff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.05);
+    border-radius: 5px 25px;
+    margin: 2vw;
+  }
+  .ask-logo {
+    margin-top: 4vw;
+  }
+  .ask-type {
+    margin-top: 3vw;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 4vw;
+    line-height: 4vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    color: #000000;
+  }
+  .genral-Question-container {
+    background: white;
+    padding: 2.5vw 5vw;
+    /* text-align: center; */
+  }
+  .gqheading {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 4vw;
+    line-height: 4.4vw;
+    text-align: center;
+    color: #000000;
+  }
+  .gqsubHeading {
+    text-align: left;
+    margin-top: 1.3vw;
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2.8vw;
+    line-height: 3.2vw;
+
+    /* text-align: center; */
+
+    color: #6b6b6b;
+  }
+
+  .gq-data-box {
+    margin-top: 4vw;
+    width: 100%;
+  }
+  .gq-data-heading {
+    display: flex;
+    justify-content: space-between;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 3vw;
+    line-height: 3.2vw;
+
+    color: #000000;
+  }
+  .gp-data-para {
+    margin-top: 2vw;
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2.91vw;
+    line-height: 3.4vw;
+    /* or 157% */
+
+    color: #333333;
+  }
+
+  .hr {
+    color: #c2bebe;
+    background-color: #6b6b6b;
+  }
+  .addandremovefaqqa {
+    font-size: 5vw !important;
+  }
+}
+
+.login-container {
+  margin-left: 2vw;
+
+  width: 90%;
+  height: 100%;
+}
+.login-container::before {
+  width: 24vw;
+  height: 28vw;
+
+  content: "";
+
+  background-repeat: no-repeat;
+  background-size: 110%;
+
+  position: absolute;
+  bottom: 0vh;
+  margin-left: 15.051vw;
+}
+
+.login-background::before {
+  content: "";
+  width: 24vw;
+  height: 25vw;
+
+  background-size: 110%;
+  background-repeat: no-repeat;
+  position: absolute;
+
+  margin-left: 17.051vw;
+  bottom: 0vh;
+}
+.login-box {
+  margin-top: 3vmax;
+}
+.loginheading {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.75vw;
+  line-height: 1.2vw;
+  /* identical to box height, or 80% */
+
+  color: #000000;
+}
+.login-subheading {
+  padding-top: 1vmax;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 0.855vw;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  color: #6b6b6b;
+}
+.login-subheading span {
+  color: #ff725e;
+}
+.login-linered {
+  height: 2px;
+  width: 3vmax;
+  margin-left: 0;
+  margin-top: 2vmax;
+  background-color: #ff725e;
+  transition: all 0.6s ease;
+}
+.login-linered.shift-forward {
+  margin-left: 6vw;
+}
+.login-linered.shift-forward-mobile {
+  margin-left: 20.2vw;
+}
+.email-box {
+  margin-top: 2vmax;
+  width: 25vw;
+  height: 3.64rem;
+  background: #ffffff;
+  border: 1px solid #e8e8e8;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+.email-label {
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.7vw;
+  line-height: 1vw;
+  padding-left: 1vmax;
+  /* identical to box height, or 167% */
+
+  color: #6b6b6b;
+}
+.password-box {
+  margin-top: 0.8vmax;
+  width: 25vw;
+  height: 3.64rem;
+  background: #ffffff;
+  border: 1px solid #e8e8e8;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+.forgetpassword a {
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 20px;
+
+  color: #6b6b6b;
+}
+
+.loginButton {
+  border-radius: 5px;
+  margin-top: 1vmax;
+  width: 25vw;
+  height: 3vw;
+  border: none;
+}
+.loginButton span {
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 14px;
+  /* identical to box height, or 87% */
+
+  color: #ffffff;
+}
+.termandcondition {
+  padding-top: 0.3vmax;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 0.77vw;
+  line-height: 15px;
+  /* identical to box height, or 136% */
+
+  color: #263238;
+}
+.termandcondition span {
+  font-weight: 600;
+  cursor: pointer;
+}
+.orBox {
+  /* border: 1px solid red; */
+  margin-top: 2.1vmax;
+  width: 25vw;
+}
+.or {
+  text-align: center;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  color: #666565;
+}
+
+.orBox button {
+  background: #064c87;
+  border-radius: 5px;
+  margin-top: 1vmax;
+  width: 25vw;
+  height: 3vw;
+  border: none;
+}
+.orBox button span {
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 14px;
+  /* identical to box height, or 87% */
+
+  color: #ffffff;
+}

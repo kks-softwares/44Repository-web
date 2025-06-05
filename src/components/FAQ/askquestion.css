@@ -1,0 +1,255 @@
+.AskQuestion-container {
+  padding: 2vw 20vw;
+}
+.ask-heading {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.9vw;
+  line-height: 1.2vw;
+  text-align: center;
+  color: #000000;
+  margin-top: 2.5vw;
+}
+.searchbox {
+  background: #ffffff;
+  border: 1px solid #ececec;
+  box-sizing: border-box;
+  border-radius: 5px;
+  margin-top: 2vw;
+  height: 2.8vw;
+}
+.searchbox input {
+  margin-left: 0.31vw;
+  border: none;
+  width: 35.43vw;
+  padding: 0.75vw;
+  outline: none;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.91vw;
+
+  color: #1d1d1d;
+}
+::placeholder {
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 0.91vw;
+  line-height: 1vw;
+
+  color: #808080;
+}
+.searchbox input :active {
+  outline: none;
+}
+.ask-subheading {
+  margin-top: 1.8vw;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.9vw;
+  line-height: 0.91vw;
+
+  text-align: center;
+  color: #6b6b6b;
+}
+.searchbutton {
+  margin-top: 2vw;
+  width: 6.44vw;
+  height: 2.8vw;
+  border: none;
+  background: #064c87;
+  border-radius: 0px 5px 5px 0px;
+}
+.searchbutton span {
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 0.9vw;
+  line-height: 16px;
+
+  color: #ffffff;
+}
+.searchicon {
+  padding: 0.5vw;
+}
+.ask-subheading span {
+  color: #064c87;
+  font-weight: 600;
+  cursor: pointer;
+}
+.spopup-heading {
+  margin-top: 3.5vw;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.5vw;
+  line-height: 1.5vw;
+  /* or 100% */
+
+  color: #000000;
+}
+
+.spopup-subheading {
+  font-family: DM Sans;
+  font-style: normal;
+  margin-top: 1vw;
+  font-weight: 500;
+  font-size: 1.1vw;
+  line-height: 1.5vw;
+  /* or 147% */
+
+  color: #000000;
+}
+.popupaskbutton {
+  margin-top: 1vw;
+  width: 23.5vw;
+  border: none;
+  height: 2.8vw;
+  background: #064c87;
+  border-radius: 5px;
+}
+.popupaskbutton span {
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 0.9vwpx;
+  line-height: 1vw;
+  /* identical to box height, or 125% */
+
+  color: #ffffff;
+}
+
+@media only screen and (max-device-width: 700px) {
+  .AskQuestion-container {
+    padding: 2vw 2vw;
+  }
+  .asklogoicon {
+    font-size: 10vw !important;
+  }
+  .ask-heading {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 4.2vw;
+    line-height: 4.2vw;
+    text-align: center;
+    color: #000000;
+    margin-top: 2.5vw;
+  }
+  .searchbox {
+    background: #ffffff;
+    border: 1px solid #ececec;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-top: 3vw;
+    height: 9.8vw;
+  }
+  .searchbox input {
+    margin-left: 0.31vw;
+    border: none;
+    width: 56.43vw;
+    padding: 0.75vw;
+    outline: none;
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 3.91vw;
+    color: #1d1d1d;
+  }
+  ::placeholder {
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2.51vw;
+    line-height: 3vw;
+    color: #808080;
+  }
+  .searchbox input :active {
+    outline: none;
+  }
+  .ask-subheading {
+    margin-top: 2.8vw;
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2.9vw;
+    line-height: 3.91vw;
+
+    text-align: center;
+    color: #6b6b6b;
+  }
+  .searchbutton {
+    margin-top: 3vw;
+    width: 22.44vw;
+    height: 9.8vw;
+    border: none;
+    background: #064c87;
+    border-radius: 0px 5px 5px 0px;
+  }
+  .searchbutton span {
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 2.9vw;
+    line-height: 16px;
+
+    color: #ffffff;
+  }
+  .searchicon {
+    padding: 2.5vw;
+    margin-top: 0.51vw;
+  }
+  .ask-subheading span {
+    color: #064c87;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .spopup-heading {
+    margin-top: 4.5vw;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 5.5vw;
+    line-height: 3.5vw;
+    color: #000000;
+  }
+
+  .spopup-subheading {
+    font-family: DM Sans;
+    font-style: normal;
+    margin-top: 5vw;
+    padding-top: 2vw;
+    font-weight: 500;
+    font-size: 2.5vw;
+    line-height: 3vw;
+    color: #000000;
+  }
+  .popupaskbutton {
+    margin-top: 3vw;
+    width: 81vw;
+    border: none;
+    height: 9.8vw;
+    background: #064c87;
+    border-radius: 5px;
+  }
+  .popupaskbutton span {
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 3.5vw !important;
+    line-height: 3vw;
+    /* identical to box height, or 125% */
+
+    color: #ffffff;
+  }
+}
+
+.labeltextarea {
+  margin-top: 0.2vw !important;
+}
+
+.labeltextarea {
+}

@@ -1,0 +1,53 @@
+.shupcardcardimg {
+  width: 8vw;
+  height: 8vw;
+}
+.shupcardcardimg img {
+  width: 7vw;
+  height: 8vw;
+  border-radius: 0.3vw;
+  object-fit: cover;
+}
+
+.shopcarddata {
+  width: 15vw;
+}
+.shopcardtitle {
+  font-size: 1vw;
+  font-weight: 500;
+  font-family: Poppins;
+}
+.shopcardpara {
+  font-size: 0.81vw;
+  font-weight: 400;
+  font-family: Poppins;
+  color: gray;
+  height: 3.1vw;
+  line-height: 1vw;
+}
+.shopcardpara1 {
+  font-size: 0.91vw;
+  font-weight: 400;
+  font-family: Poppins;
+
+  line-height: 1.2vw;
+}
+
+.shopcarddetails {
+  width: 23vw;
+}
+.shopcradbutton {
+  width: 9vw;
+  height: 2.7vw;
+  border: 1px solid #064c87;
+  font-size: 0.91vw;
+  font-weight: 400;
+  font-family: Poppins;
+  margin: 1vw 7vw;
+  background: none;
+}
+.shopcradbutton:hover {
+  background: #064c87 0% 0% no-repeat padding-box;
+  border: 1px solid #064c87;
+  color: white;
+}

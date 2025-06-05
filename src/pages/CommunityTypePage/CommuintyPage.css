@@ -1,0 +1,21 @@
+.commuintydetailPageconTainer {
+  padding: 2vw 4vw;
+  width: 100vw;
+}
+.addnewbutton {
+  width: 100%;
+  display: flex;
+  justify-content: right;
+  position: relative;
+  bottom: 3vw;
+}
+.addnewbutton button {
+  width: 8vw;
+  height: 3vw;
+  border: 1px solid #064c87;
+  border-radius: 6px;
+  color: #064c87;
+  font-size: 1.1vw;
+  font-family: Poppins;
+  background-color: white;
+}

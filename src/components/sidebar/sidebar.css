@@ -1,0 +1,135 @@
+.Sidebarmain-div {
+  width: 17vw;
+  background-color: white;
+  height: 100vh;
+  text-align: center;
+  padding-left: 1vw;
+  transition: all 0.5s ease-in-out;
+  overflow: hidden;
+}
+
+.logobox {
+  padding-top: 1vw;
+}
+.logobox img {
+  width: 6vw;
+  height: 6vw;
+  object-fit: contain;
+}
+.sidenavbox {
+  width: 16vw;
+  position: relative;
+  right: 0.5vw;
+  text-align: center;
+  margin: auto;
+  margin-top: 1vw;
+  cursor: pointer;
+}
+.snavboxes {
+  width: 14vw;
+  display: flex;
+  margin-top: 1vw;
+  cursor: pointer;
+  height: 2vw;
+  padding: 0.5vw;
+  /* vertical-align: center; */
+  align-items: center;
+}
+.snavlogo {
+  width: 3vw;
+}
+.snavlogo img {
+  width: 1.5vw;
+  height: 1.5vw;
+  text-align: left;
+  object-fit: contain;
+}
+.snavtitle {
+  width: 8vw;
+  margin-left: 0.51vw;
+  text-align: left;
+  font-family: Poppins;
+  color: #0052cc;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1vw;
+  line-height: 0.3vw;
+  color: #000000;
+}
+.greennavextra {
+  background: #4aaa28;
+  border-radius: 10px;
+}
+.greennavextratitle {
+  color: white;
+  font-weight: 500;
+}
+
+.arrowsnav {
+  margin-top: 0.01vw;
+}
+.minimize-button {
+  background: #0052cc31;
+  color: #0052cc;
+
+  border-radius: 10px;
+}
+.minmizearrow {
+  opacity: 0.7;
+  color: #0052cc;
+  align-items: center;
+}
+
+.named-sidebar-icon {
+  display: flex;
+  height: 3.5vw;
+  align-items: center;
+}
+.sidebar-icon {
+  display: flex;
+  height: 3.5vw;
+  width: 2vw;
+  margin-left: 0.51vw;
+}
+.sidebarmenuname {
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-medium) var(--unnamed-font-size-14) / 21px Poppins;
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal medium 14px/21px Poppins;
+  letter-spacing: 0px;
+  color: black;
+  opacity: 1;
+  font-size: 1.051vw;
+  font-family: Poppins;
+  margin: 0.45vw;
+  margin-left: 0.51vw;
+  font-weight: 500;
+  margin-top: 0.3vw;
+  width: 10vw;
+}
+.named-sidebar-icon img {
+  width: 1.6vw;
+  height: 1.6vw;
+  object-fit: contain;
+  margin-left: 0.51vw;
+}
+.sidebar-icon img {
+  width: 1.6vw;
+  height: 1.6vw;
+  object-fit: contain;
+  margin-left: 0.5vw;
+}
+.bluesidebar {
+  color: #064c89;
+  background-color: #064c89;
+  height: 3.2vw;
+  width: 0.25vw;
+  position: relative;
+  bottom: 0.5vw;
+  right: 0.5vw;
+  border-radius: 2vw;
+ 
+
+  transition: all 0.3s ease-in-out;
+}

@@ -1,0 +1,127 @@
+.ppolicy h1 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 2.5vw;
+  line-height: 1.6vw;
+  margin-top: 1.62vw;
+  color: #000000;
+  margin-bottom: 2vw;
+}
+
+.ppolicy h2 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.8vw;
+  line-height: 1.45vw;
+  margin-top: 1.62vw;
+  padding-top: 1.62vw;
+  color: #000000;
+  margin-bottom: 0.5vw;
+  border-top: 1px solid #807f7f56;
+}
+
+.ppolicy h1 > strong {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 2.5vw;
+  line-height: 1.6vw;
+  margin-top: 1.62vw;
+  color: #000000;
+  margin-bottom: 2vw;
+}
+
+.ppolicy h2 > strong {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500 !important;
+  font-size: 1.8vw;
+  line-height: 1.45vw;
+  margin-top: 1.62vw;
+  padding-top: 1.62vw;
+  color: #000000;
+  margin-bottom: 0.5vw;
+}
+
+.ppolicy p {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.05vw;
+  margin-top: 0.71vw !important;
+  line-height: 1.5vw;
+  margin-right: 3vw !important;
+  margin-left: 1vw !important;
+
+  color: #565656;
+}
+
+.ppolicy ul {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.13vw;
+  margin-top: 0.71vw !important;
+  line-height: 1.5vw;
+  margin-right: 3vw !important;
+  margin-left: 1vw !important;
+
+  color: #565656;
+}
+.ppolicy li {
+  list-style-type: disc;
+}
+@media only screen and (max-device-width: 700px) {
+  .ppolicy h1 {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 5.6vw;
+    line-height: 6vw;
+    margin-top: 1.62vw;
+    color: #000000;
+    margin-bottom: 2vw;
+  }
+
+  .ppolicy h2 {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 3.8vw;
+    line-height: 3.9vw;
+    margin-top: 2.62vw;
+    padding-top: 1.62vw;
+    color: #000000;
+    margin-bottom: 0.5vw;
+    border-top: 1px solid #807f7f56;
+  }
+
+  .ppolicy p {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2.83vw;
+    margin-top: 1.71vw !important;
+    line-height: 3vw;
+    margin-right: 3vw !important;
+    margin-left: 1vw !important;
+    color: #565656;
+  }
+
+  .ppolicy ul {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 3.13vw;
+    margin-top: 0.71vw !important;
+    line-height: 3.5vw;
+    margin-right: 3vw !important;
+    margin-left: 1vw !important;
+    color: #565656;
+  }
+  .ppolicy li {
+    list-style-type: disc;
+  }
+}

@@ -1,0 +1,140 @@
+.hometexttimonial-container {
+  width: 100vw;
+  padding: 3vw;
+}
+.hometextcarousel {
+  margin: auto;
+  margin-top: 3vw;
+  width: 55vw;
+  background: #22496f 0% 0% no-repeat padding-box;
+  border-radius: 0px 3vw;
+  opacity: 1;
+  height: 27vw;
+  padding: 1vw;
+
+  margin-right: 15vw;
+}
+.home-textbox-first {
+  display: flex;
+  height: 20vw;
+}
+.home-textbox-firstimg {
+  width: 7vw;
+}
+.home-textbox-firstimg img {
+  width: 14vw;
+  margin-top: 7vw;
+  position: relative;
+  object-fit: cover;
+  right: 8vw;
+}
+.home-textbox-firsttext {
+  margin-top: 4vw;
+  width: 100%;
+  text-align: left;
+  font: normal normal medium 16px/37px Poppins;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 0.8;
+  font-size: 1vw;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 2vw;
+}
+
+.texthomename {
+  text-align: left;
+  font: normal normal medium 26px/39px Poppins;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  font-size: 1.6vw;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 2vw;
+  margin-left: 1vw;
+}
+
+.slick-dots li.slick-active button:before {
+  color: #22496f !important;
+  transform: scale(2.5);
+}
+.slick-dots li button:before {
+  transform: scale(2.5);
+}
+.slick-dots {
+  margin: 0.7vw;
+}
+
+@media only screen and (max-device-width: 700px) {
+  .hometexttimonial-container {
+    width: 100vw;
+    padding: 3vw;
+    height: 95vw;
+    padding-top: 3vw;
+  }
+  .hometextcarousel {
+    margin: auto;
+    margin-top: 3vw;
+    width: 90vw;
+    background: #22496f 0% 0% no-repeat padding-box;
+    border-radius: 0px 3vw;
+    opacity: 1;
+    height: 67vw;
+    padding: 1vw;
+  }
+  .home-textbox-first {
+    display: flex;
+    height: 58vw;
+  }
+  .home-textbox-firstimg {
+    width: 20vw;
+  }
+  .home-textbox-firstimg img {
+    width: 20vw;
+    margin-top: 5vw;
+    position: relative;
+    object-fit: cover;
+    right: 4vw;
+  }
+  .home-textbox-firsttext {
+    margin-top: 6vw;
+    width: 100%;
+    text-align: left;
+    font: normal normal medium 16px/37px Poppins;
+    letter-spacing: 0px;
+    color: #ffffff;
+    opacity: 0.8;
+    font-size: 3vw;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: 3.7vw;
+  }
+
+  .texthomename {
+    text-align: left;
+    font: normal normal medium 26px/39px Poppins;
+    letter-spacing: 0px;
+    color: #ffffff;
+    opacity: 1;
+    font-size: 4vw;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: 5vw;
+    margin-left: 2vw;
+  }
+
+  .slick-dots li.slick-active button:before {
+    color: #22496f !important;
+    transform: scale(2.55);
+    margin-top: 1vw;
+  }
+  .slick-dots li button:before {
+    transform: scale(2.5);
+    margin-top: 1vw;
+  }
+  .slick-dots {
+    margin: 0.7vw;
+    margin-top: 4vw;
+  }
+}

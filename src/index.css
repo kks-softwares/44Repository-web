@@ -1,0 +1,368 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.activejobpostbox {
+  display: flex;
+  margin-right: 1vw;
+
+  align-items: center;
+  height: fit-content !important;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+a {
+  text-decoration: none !important;
+}
+.css-1rxz5jq-MuiSelect-select-MuiInputBase-input-MuiInput-input.MuiSelect-select {
+  font-size: 1.1vw !important;
+}
+.selectedhjobfile {
+  font-size: 1vw !important;
+}
+.css-1cccqvr.MuiSelect-select {
+  font-size: 1vw !important;
+}
+.MuiSelect-select {
+  font-size: 1vw !important;
+}
+.labeltextarea {
+  margin-top: 0.2vw !important;
+}
+
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  font-size: 1vw !important;
+}
+
+.css-1sqnrkk-MuiInputBase-input-MuiOutlinedInput-input {
+  font-size: 1.1vw !important;
+}
+
+.homepostjob-right {
+  overflow: scroll;
+}
+.input-homejobformdate {
+  width: max-content !important;
+  font-size: 1vw;
+}
+.css-1rxz5jq-MuiSelect-select-MuiInputBase-input-MuiInput-input.css-1rxz5jq-MuiSelect-select-MuiInputBase-input-MuiInput-input.css-1rxz5jq-MuiSelect-select-MuiInputBase-input-MuiInput-input {
+  color: black;
+  font-weight: 400 !important;
+  display: flex;
+  align-items: center;
+}
+.css-1rxz5jq-MuiSelect-select-MuiInputBase-input-MuiInput-input.css-1rxz5jq-MuiSelect-select-MuiInputBase-input-MuiInput-input.css-1rxz5jq-MuiSelect-select-MuiInputBase-input-MuiInput-input {
+  color: black;
+  font-weight: 400 !important;
+}
+
+.jobpostfieldinputbox input {
+  width: 94% !important;
+}
+
+.css-29aysa {
+  width: 94% !important;
+}
+.makeStyles-select-1 {
+  width: 100% !important;
+}
+.jobpostfieldinputbox textarea {
+  width: 94% !important;
+}
+.makeStyles-select-73 {
+  width: 100% !important;
+}
+
+.makeStyles-select-13 {
+  width: 100% !important;
+}
+.makeStyles-select2-2 {
+  width: 100% !important;
+}
+.makeStyles-select-3 {
+  width: 100% !important;
+}
+
+.activejobpostbox {
+  height: fit-content !important;
+}
+.jss1 {
+  width: 100% !important;
+  color: black !important;
+  font-weight: 400 !important;
+}
+.jss2 {
+  width: 100% !important;
+  color: black !important;
+  font-weight: 400 !important;
+}
+.jss3 {
+  width: 100% !important;
+  color: black !important;
+  font-weight: 400 !important;
+
+}
+
+.css-1cccqvr.MuiSelect-select {
+  color: black;
+}
+.makeStyles-icon-12 {
+  fill: black;
+}
+.recentnamesearc {
+  cursor: pointer;
+}
+
+.jobpostfieldinputbox input {
+  font-size: 1.1vw;
+}
+.catalogimages img {
+  width: 100% !important;
+  height: 32vw;
+  object-fit: cover;
+  opacity: 0.6;
+}
+.fileselctednamecate {
+  max-width: 90% !important;
+}
+.redp {
+  font-size: 0.95vw;
+}
+
+.css-1x5jdmq.Mui-disabled {
+  opacity: 1;
+  -webkit-text-fill-color: rgba(0, 0, 0) !important;
+}
+
+@media only screen and (max-device-width: 700px) {
+  .redp {
+    font-size: 2.7vw;
+  }
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  p {
+    font-size: 2.8vw !important;
+  }
+
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+      monospace;
+  }
+
+  a {
+    text-decoration: none !important;
+  }
+  .css-1rxz5jq-MuiSelect-select-MuiInputBase-input-MuiInput-input.MuiSelect-select {
+    font-size: 3.3vw !important;
+  }
+  .selectedhjobfile {
+    font-size: 3.3vw !important;
+  }
+  .css-1cccqvr.MuiSelect-select {
+    font-size: 3.3vw !important;
+  }
+  .MuiSelect-select {
+    font-size: 3.3vw !important;
+  }
+  .labeltextarea {
+    margin-top: 1vw !important;
+  }
+
+  .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+    font-size: 3.6vw !important;
+  }
+
+  .css-1sqnrkk-MuiInputBase-input-MuiOutlinedInput-input {
+    font-size: 3.6vw !important;
+  }
+
+  .homepostjob-right {
+    overflow: scroll;
+  }
+  .input-homejobformdate {
+    width: max-content !important;
+    font-size: 3.3vw;
+  }
+
+  .css-1rxz5jq-MuiSelect-select-MuiInputBase-input-MuiInput-input.css-1rxz5jq-MuiSelect-select-MuiInputBase-input-MuiInput-input.css-1rxz5jq-MuiSelect-select-MuiInputBase-input-MuiInput-input {
+    color: black;
+    font-weight: 400 !important;
+  }
+
+  .jobpostfieldinputbox input {
+    width: 100% !important;
+  }
+
+  .css-29aysa {
+    width: 94% !important;
+  }
+  .makeStyles-select-1 {
+    width: 100% !important;
+  }
+  .jobpostfieldinputbox textarea {
+    width: 100% !important;
+  }
+  .makeStyles-select-73 {
+    width: 100% !important;
+  }
+
+  .makeStyles-select-13 {
+    width: 100% !important;
+  }
+  .makeStyles-select2-2 {
+    width: 100% !important;
+  }
+  .makeStyles-select-3 {
+    width: 100% !important;
+  }
+
+  .activejobpostbox {
+    height: fit-content !important;
+  }
+  .jss1 {
+    width: 100% !important;
+    color: black !important;
+    font-weight: 400 !important;
+    font-size: 3vw ;
+  }
+  .jss2 {
+    width: 100% !important;
+    color: black !important;
+    font-weight: 400 !important;
+    font-size: 3vw ;
+  }
+  .jss3 {
+    width: 100% !important;
+    color: black !important;
+    font-weight: 400 !important;
+    font-size: 3vw ;
+  }
+  .jss4 {
+    width: 100% !important;
+    color: black !important;
+    font-weight: 400 !important;
+    font-size: 3vw ;
+  }
+  .jss5 {
+    width: 100% !important;
+    color: black !important;
+    font-weight: 400 !important;
+    font-size: 3vw ;
+  }
+  .jss6 {
+    width: 100% !important;
+    color: black !important;
+    font-weight: 400 !important;
+    font-size: 3vw ;
+  }
+  .jss7 {
+    width: 100% !important;
+    color: black !important;
+    font-weight: 400 !important;
+    font-size: 3vw ;
+  }
+  .jss8 {
+    width: 100% !important;
+    color: black !important;
+    font-weight: 400 !important;
+    font-size: 3vw ;
+  }
+  .jss9 {
+    width: 100% !important;
+    color: black !important;
+    font-weight: 400 !important;
+    font-size: 3vw ;
+  }
+  .jss10 {
+    width: 100% !important;
+    color: black !important;
+    font-weight: 400 !important;
+    font-size: 3vw ;
+  }
+  .jss11 {
+    width: 100% !important;
+    color: black !important;
+    font-weight: 400 !important;
+    font-size: 3vw ;
+  }
+  .jss12 {
+    width: 100% !important;
+    color: black !important;
+    font-weight: 400 !important;
+    font-size: 3vw ;
+  }
+  .jss13 {
+    width: 100% !important;
+    color: black !important;
+    font-weight: 400 !important;
+    font-size: 3vw ;
+  }
+  .jss14 {
+    width: 100% !important;
+    color: black !important;
+    font-weight: 400 !important;
+    font-size: 3vw ;
+  }
+  .jss15 {
+    width: 100% !important;
+    color: black !important;
+    font-weight: 400 !important;
+    font-size: 3vw ;
+  }
+  .jss16 {
+    width: 100% !important;
+    color: black !important;
+    font-weight: 400 !important;
+    font-size: 3vw ;
+  }
+
+  .css-1cccqvr.MuiSelect-select {
+    color: black;
+  }
+  .recentnamesearc {
+    cursor: pointer;
+  }
+
+  .jobpostfieldinputbox input {
+    font-size: 3.3vw;
+  }
+  .catalogimages img {
+    width: 100% !important;
+    height: 32vw;
+    object-fit: cover;
+    opacity: 0.6;
+  }
+  .fileselctednamecate {
+    max-width: 90% !important;
+  }
+
+  .css-1x5jdmq {
+    font: inherit;
+    letter-spacing: inherit;
+    color: currentcolor;
+    border: 0px;
+    box-sizing: content-box;
+    background: none;
+    height: 1.4375em;
+    margin: 0px;
+    -webkit-tap-highlight-color: transparent;
+    display: block;
+    min-width: 0px;
+    width: 100%;
+    animation-name: mui-auto-fill-cancel;
+    animation-duration: 10ms;
+    padding: 10.5px 10px !important;
+  }
+  .css-pqjvzy-MuiSvgIcon-root-MuiSelect-icon{
+   display: none !important;
+  }
+  .css-1utq5rl{
+   display: none;
+  }
+}

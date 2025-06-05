@@ -1,0 +1,48 @@
+.eventdetailcontinaer {
+  width: 100vw;
+  padding: 2vw 4vw;
+}
+.breadcrumpDetailnav {
+  display: flex;
+  align-items: center;
+  font-size: 1.1vw;
+  font-family: Poppins;
+  font-weight: 400;
+}
+.breadcrumpDetailnav div {
+  margin: 0 0.5vw;
+}
+.intracteventDetials {
+  font-size: 1.4vw;
+  font-family: Poppins;
+  font-weight: 500;
+  color: #064c87;
+  margin: 2vw 0vw;
+}
+.abouteventDetials {
+  font-size: 1.2vw;
+  font-family: Poppins;
+  font-weight: 500;
+  margin-bottom: 1.3vw;
+}
+.paraeventDetials {
+  font-size: 1.05vw;
+  padding-right: 2vw;
+  font-family: Poppins;
+  font-weight: 400;
+  margin: 0.6vw 0;
+  text-align: left;
+  color: #707070;
+}
+
+.evntaboutflex{
+    display: flex;
+    padding: 1vw;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.evntflexaboutboxes{
+    width: fit-content;
+    
+}

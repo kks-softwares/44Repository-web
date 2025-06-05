@@ -1,0 +1,22 @@
+.css-1rxz5jq-MuiSelect-select-MuiInputBase-input-MuiInput-input.MuiSelect-select {
+  min-height: 0em;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.btn {
+  padding: 0 !important;
+}
+
+.activejobpistbudgetbox {
+    line-height: 2.1vw !important;
+}
+
+@media only screen and (max-device-width: 700px){
+    .activejobpistbudgetbox {
+        line-height: 4.3vw !important;
+    }
+    
+}
